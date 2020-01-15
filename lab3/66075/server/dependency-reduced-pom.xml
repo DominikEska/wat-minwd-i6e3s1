@@ -23,7 +23,7 @@
               <transformers>
                 <transformer />
                 <transformer>
-                  <mainClass>com.mehehe.DropwizardBikeApplication</mainClass>
+                  <mainClass>com.Bikes.DropwizardBikeApplication</mainClass>
                 </transformer>
               </transformers>
             </configuration>
@@ -124,7 +124,7 @@
   </dependencyManagement>
   <properties>
     <dropwizard.version>1.3.2</dropwizard.version>
-    <mainClass>com.mehehe.DropwizardBikeApplication</mainClass>
+    <mainClass>com.Bikes.DropwizardBikeApplication</mainClass>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
